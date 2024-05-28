@@ -1,0 +1,10 @@
+body {
+    background-image: url(/static/img/sky.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    left: 50%;
+    top: 50%;
+}
